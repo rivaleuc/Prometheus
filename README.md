@@ -1,6 +1,7 @@
 # PROMETHEUS  Smart Contract
 
 Move smart contract deployed on **Aptos shelbynet**.
+![prometheus_contract_architecture](https://github.com/user-attachments/assets/1baae2f6-63fd-4124-9864-2d738a1a2f35)
 
 ## Modules
 
