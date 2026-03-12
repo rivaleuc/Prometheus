@@ -1,4 +1,4 @@
-# PROMETHEUS — Smart Contract
+# PROMETHEUS  Smart Contract
 
 Move smart contract deployed on **Aptos shelbynet**.
 
